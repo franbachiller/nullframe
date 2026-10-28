@@ -1,0 +1,6 @@
+/target
+/tools/ffmpeg.exe
+/tools/*.zip
+/exports
+
+/dist

@@ -1,0 +1,23 @@
+1 ICON "icon.ico"
+
+1 VERSIONINFO
+FILEVERSION 0,1,0,0
+PRODUCTVERSION 0,1,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "CompanyName", "Nullframe"
+      VALUE "FileDescription", "Nullframe"
+      VALUE "FileVersion", "0.1.0"
+      VALUE "ProductName", "Nullframe"
+      VALUE "ProductVersion", "0.1.0"
+      VALUE "OriginalFilename", "nullframe.exe"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1200
+  END
+END
